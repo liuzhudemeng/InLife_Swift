@@ -1,0 +1,6 @@
+framework module Pods_InLife {
+  umbrella header "Pods-InLife-umbrella.h"
+
+  export *
+  module * { export * }
+}

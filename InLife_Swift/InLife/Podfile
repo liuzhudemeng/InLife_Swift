@@ -1,0 +1,10 @@
+platform :ios, ‘8.0’
+use_frameworks!
+target “InLife” do
+pod 'MJRefresh', '~> 3.1.0'
+pod 'Kingfisher'
+pod 'Alamofire'
+pod 'GPUImage'
+pod 'HandyJSON'         #字典转model
+end
+

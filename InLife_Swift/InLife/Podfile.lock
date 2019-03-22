@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.3.0)
+  - GPUImage (0.1.7)
+  - HandyJSON (1.8.0)
+  - Kingfisher (3.4.0)
+  - MJRefresh (3.1.12)
+
+DEPENDENCIES:
+  - Alamofire
+  - GPUImage
+  - HandyJSON
+  - Kingfisher
+  - MJRefresh (~> 3.1.0)
+
+SPEC CHECKSUMS:
+  Alamofire: 856a113053a7bc9cbe5d6367a555d773fc5cfef7
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+  HandyJSON: edaaa3278bf4c4c96d6f7382b80d6b91c88d3bf5
+  Kingfisher: 5690cfb3d1bddf3a98d679a3a34d0b7294974ed2
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+
+PODFILE CHECKSUM: f9aa49fb463ce0d3d9d8374e369e85f33d16af38
+
+COCOAPODS: 1.4.0.beta.1
